@@ -11,15 +11,15 @@
 <img width="887" height="808" alt="image" src="https://github.com/user-attachments/assets/82ed0acd-a832-4f36-851f-a0bdbb09dceb" />
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
-
-
 ## Tabulation
-
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ab7c4722-41ff-470f-b5ca-7f5f8c366623" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/ad145f13-2258-450a-a4cc-c17290d38fa6" />
 ## Graph
-
+<img width="1600" height="948" alt="image" src="https://github.com/user-attachments/assets/c427df8e-9a99-42a9-a0fa-af25f6d4af2f" />
+<img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/22907e23-97fb-492c-8984-d13b15a7e914" />
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
+Practical frequency of Oscillation = 159Hz
 
 
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation = 100.148Hz
