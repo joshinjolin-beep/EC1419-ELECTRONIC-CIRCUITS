@@ -25,7 +25,7 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Tabulation
-
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/c41def52-c159-4de4-8f05-de76fc0a03e1" />
 ## Graph
 <img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/1167d218-7a32-4104-ba8a-d3692edefe28" />
 <img width="1600" height="308" alt="image" src="https://github.com/user-attachments/assets/32623b40-f51e-4371-99ab-a062355eac9c" />
