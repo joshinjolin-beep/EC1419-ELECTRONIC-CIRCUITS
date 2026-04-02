@@ -27,11 +27,11 @@
 ## Tabulation
 
 ## Graph
-
-
+<img width="1600" height="720" alt="image" src="https://github.com/user-attachments/assets/1167d218-7a32-4104-ba8a-d3692edefe28" />
+<img width="1600" height="308" alt="image" src="https://github.com/user-attachments/assets/32623b40-f51e-4371-99ab-a062355eac9c" />
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN = 2dB**
 
-**BANDWIDTH =**
+**BANDWIDTH = 40MHz**
